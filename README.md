@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KristalTheAnalyst
 - 👀 I’m interested in advancing my career in Data Analytics and Data Science.
-- 🌱 I’m currently learning predictive modeling using R and Python. On my own time, I'm learning how to use Tableau and PowerBI along with R and Python coding and SQL queries.
+- 🌱 I’m deep diving into PostgreSQL and Tableau in my current courses in my MSDA program. On my own time, I'm learning PowerBI along with further enhancing my knowledge of R and Python.
 - 💞️ I’m looking to collaborate on projects that'll use my technical skills
 - 📫 How to reach me 
           via LinkedIn: linkedin.com/in/KristalTorresAyala
